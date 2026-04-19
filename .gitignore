@@ -1,0 +1,21 @@
+# SQL Server
+*.mdf
+*.ndf
+*.ldf
+*.bak
+*.trn
+
+# Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
